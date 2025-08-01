@@ -346,10 +346,16 @@ kami juga telah membuat dashboard tableau untuk menunjukkan visualisasi yang leb
 
 Selain itu, dalam repo ini kami telah membuat streamlit untuk melihat hasil pemodelan secara langsung. Berikut adalah hasilnya:
 
-# **1. Hasil pada kelas 1** 
-[1](https://cdn.discordapp.com/attachments/1393198717372203090/1400843771884863618/image.png?ex=688e1ced&is=688ccb6d&hm=9f0979000eebfcaf094009fedf11638ad01cad4d9d3dcbec4f6ba07f47b87705&)
-[2](https://cdn.discordapp.com/attachments/1393198717372203090/1400843772270608424/image.png?ex=688e1ced&is=688ccb6d&hm=a233ae65c1e2918f7ea6f41e632af83a17c2ed0e1d20be84c38ca8b3d61586a6&)
-[3](https://cdn.discordapp.com/attachments/1393198717372203090/1400843772681785456/image.png?ex=688e1ced&is=688ccb6d&hm=d224ad642637923a0d835a0025f8e283e8b4b63ada104149cbc4bddb060c0862&)
-[4](https://cdn.discordapp.com/attachments/1393198717372203090/1400843773130440744/image.png?ex=688e1ced&is=688ccb6d&hm=214c02cc825bb84bb7738e4f8c306c972811c15120e3792f0c3b68c36f6b3cb9&)
+# **1. Hasil pada kelas 0** 
 
-# **2. Hasil pada kelas 0** 
+![1](https://cdn.discordapp.com/attachments/1393198717372203090/1400843771884863618/image.png?ex=688e1ced&is=688ccb6d&hm=9f0979000eebfcaf094009fedf11638ad01cad4d9d3dcbec4f6ba07f47b87705&)
+![2](https://cdn.discordapp.com/attachments/1393198717372203090/1400843772270608424/image.png?ex=688e1ced&is=688ccb6d&hm=a233ae65c1e2918f7ea6f41e632af83a17c2ed0e1d20be84c38ca8b3d61586a6&)
+![3](https://cdn.discordapp.com/attachments/1393198717372203090/1400843772681785456/image.png?ex=688e1ced&is=688ccb6d&hm=d224ad642637923a0d835a0025f8e283e8b4b63ada104149cbc4bddb060c0862&)
+![4](https://cdn.discordapp.com/attachments/1393198717372203090/1400843773130440744/image.png?ex=688e1ced&is=688ccb6d&hm=214c02cc825bb84bb7738e4f8c306c972811c15120e3792f0c3b68c36f6b3cb9&)
+
+# **2. Hasil pada kelas 1** 
+
+![1](https://cdn.discordapp.com/attachments/1393198717372203090/1400848496231452832/image.png?ex=688e2154&is=688ccfd4&hm=d6a3ed9c36b412db0fde64e41e4e104a722f112abc676de435cdcc13f36819df&)
+![2](https://cdn.discordapp.com/attachments/1393198717372203090/1400848496592027719/image.png?ex=688e2154&is=688ccfd4&hm=9872f292996adb93a2b99d866a2d19ac3795c0f27e54f77aa9266d62f667e3c1&)
+![3](https://cdn.discordapp.com/attachments/1393198717372203090/1400848496986296445/image.png?ex=688e2154&is=688ccfd4&hm=7639a930020a12c1287ddb51a5fd75bc36cc81b5d91f3f4cdeb20b892499a47f&)
+![4](https://cdn.discordapp.com/attachments/1393198717372203090/1400848497447534592/image.png?ex=688e2154&is=688ccfd4&hm=dc0ef638f8d6e18d68e701cec43bb3baefa1eb7d5eb3af541c17b920d37e69bc&)
