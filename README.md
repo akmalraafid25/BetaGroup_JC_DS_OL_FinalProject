@@ -347,6 +347,9 @@ kami juga telah membuat dashboard tableau untuk menunjukkan visualisasi yang leb
 Selain itu, dalam repo ini kami telah membuat streamlit untuk melihat hasil pemodelan secara langsung. Berikut adalah hasilnya:
 
 # **1. Hasil pada kelas 1** 
-https://cdn.discordapp.com/attachments/1393198717372203090/1400843771884863618/image.png?ex=688e1ced&is=688ccb6d&hm=9f0979000eebfcaf094009fedf11638ad01cad4d9d3dcbec4f6ba07f47b87705&
+[1](https://cdn.discordapp.com/attachments/1393198717372203090/1400843771884863618/image.png?ex=688e1ced&is=688ccb6d&hm=9f0979000eebfcaf094009fedf11638ad01cad4d9d3dcbec4f6ba07f47b87705&)
+[2](https://cdn.discordapp.com/attachments/1393198717372203090/1400843772270608424/image.png?ex=688e1ced&is=688ccb6d&hm=a233ae65c1e2918f7ea6f41e632af83a17c2ed0e1d20be84c38ca8b3d61586a6&)
+[3](https://cdn.discordapp.com/attachments/1393198717372203090/1400843772681785456/image.png?ex=688e1ced&is=688ccb6d&hm=d224ad642637923a0d835a0025f8e283e8b4b63ada104149cbc4bddb060c0862&)
+[4](https://cdn.discordapp.com/attachments/1393198717372203090/1400843773130440744/image.png?ex=688e1ced&is=688ccb6d&hm=214c02cc825bb84bb7738e4f8c306c972811c15120e3792f0c3b68c36f6b3cb9&)
 
 # **2. Hasil pada kelas 0** 
