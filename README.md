@@ -248,6 +248,56 @@ Untuk memastikan reliability model, kami melakukan cross-validation dengan 5-fol
 
 ---
 
+## Rekomendasi Strategi Kampanye Term Deposit
+
+### 1. Segmentasi dan Penargetan Calon Nasabah
+- Prioritaskan kelompok dengan tingkat konversi tinggi:
+  - Lansia (65+), pensiunan, mahasiswa, pengangguran.
+  - Pekerja admin dan blue-collar dengan pendekatan edukatif.
+- Fokuskan kampanye pada mereka yang belum pernah dihubungi sebelumnya (`poutcome = nonexistent`).
+
+### 2. Waktu Kampanye yang Optimal
+- Jalankan kampanye pada bulan dengan konversi tinggi:
+  - Maret, September, Oktober, dan Desember.
+- Hindari bulan dengan performa historis rendah.
+
+### 3. Optimasi Frekuensi dan Durasi Kontak
+- Durasi panggilan efektif: 200–644 detik.
+- Frekuensi kontak optimal: 1–5 kali.
+- Hindari over-contact untuk mencegah campaign fatigue.
+
+### 4. Pendekatan Berdasarkan Jenis Pekerjaan dan Pendidikan
+- Mahasiswa dan pensiunan: produk term deposit jangka pendek dan fleksibel.
+- Admin dan blue-collar: pendekatan melalui edukasi finansial ringan.
+- Pendidikan tinggi: materi promosi berbasis analisis data ekonomi.
+
+### 5. Adaptasi terhadap Kondisi Ekonomi
+- `euribor3m` tinggi: intensifkan promosi karena imbal hasil menarik.
+- `nr.employed` tinggi: fokus pada edukasi pentingnya diversifikasi aset.
+- Integrasikan indikator ekonomi ke dalam pemicu kampanye.
+
+### 6. Pengelolaan Riwayat Kampanye
+- Prioritaskan nasabah yang belum pernah dihubungi sebelumnya.
+- Hindari pengulangan kontak berlebihan terhadap nasabah yang sudah menolak.
+
+### 7. Pemanfaatan Sistem Pendukung Keputusan
+- Gunakan model prediktif untuk mengklasifikasikan calon nasabah.
+- Personalisasi pendekatan kampanye secara dinamis.
+- Monitor performa kampanye secara real-time menggunakan dashboard.
+
+### Ringkasan Prioritas Eksekusi
+
+| Area             | Rekomendasi Utama                                  | Prioritas |
+|------------------|----------------------------------------------------|-----------|
+| Segmentasi       | Fokus pada lansia, mahasiswa, pensiunan            | Tinggi    |
+| Waktu Kampanye   | Maret, September, Oktober, Desember                | Tinggi    |
+| Kontak           | 1–5 kali, durasi 200–644 detik                     | Tinggi    |
+| Ekonomi          | Pantau `euribor3m` dan `nr.employed`              | Sedang    |
+| Pendidikan       | Edukasi berbasis data ekonomi                     | Sedang    |
+| Riwayat Kontak   | Prioritaskan `poutcome = nonexistent`              | Tinggi    |
+
+---
+
 ## **Rekomendasi Implementasi Machine Learning**
 
 ### **Pengembangan Model Berkelanjutan**
@@ -289,3 +339,14 @@ Implementasi machine learning dalam kampanye pemasaran bank ini telah membuktika
 Keberhasilan proyek ini menunjukkan pentingnya kolaborasi antara aspek teknis dan bisnis dalam pengembangan solusi machine learning. Pendekatan yang sistematis dalam pengembangan model, dari data preprocessing hingga deployment, telah menghasilkan solusi yang robust dan scalable.
 
 Masa depan implementasi machine learning dalam industri perbankan sangat menjanjikan. Dengan terus berkembangnya teknologi dan meningkatnya ketersediaan data, peluang untuk mengembangkan solusi yang lebih sophisticated dan impactful akan terus bertambah. Namun, kunci keberhasilan tetap terletak pada pemahaman yang mendalam tentang domain bisnis dan kemampuan untuk menerjemahkan insight teknis menjadi aksi bisnis yang konkret.
+
+---
+ 
+kami juga telah membuat dashboard tableau untuk menunjukkan visualisasi yang lebih baik serta yang dapat diakses melalui link berikut : https://public.tableau.com/views/BankTelemarketingDashboard_17530884902790/ConversionRate?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Selain itu, dalam repo ini kami telah membuat streamlit untuk melihat hasil pemodelan secara langsung. Berikut adalah hasilnya:
+
+# **1. Hasil pada kelas 1** 
+https://cdn.discordapp.com/attachments/1393198717372203090/1400843771884863618/image.png?ex=688e1ced&is=688ccb6d&hm=9f0979000eebfcaf094009fedf11638ad01cad4d9d3dcbec4f6ba07f47b87705&
+
+# **2. Hasil pada kelas 0** 
