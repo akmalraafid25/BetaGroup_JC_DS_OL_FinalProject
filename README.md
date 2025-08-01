@@ -2,7 +2,7 @@
     <h1><b>Bank Marketing Campaign</h1>
     <h4><b>Final Project</b><br>JCDSOL-18<br>by : Akmal Raafid Taufiqurrahman & Rikal Muhammad</h4>
 </div>
-    ---
+---
 ## **Contents:**
 
 1. Dataset Overview
