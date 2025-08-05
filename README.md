@@ -344,7 +344,7 @@ Masa depan implementasi machine learning dalam industri perbankan sangat menjanj
  
 kami juga telah membuat dashboard tableau untuk menunjukkan visualisasi yang lebih baik serta yang dapat diakses melalui link berikut : https://public.tableau.com/views/BankTelemarketingDashboard_17530884902790/ConversionRate?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-Selain itu, dalam repo ini kami telah membuat streamlit untuk melihat hasil pemodelan secara langsung. Berikut adalah hasilnya:
+Selain itu, dalam repo ini kami telah membuat [streamlit](https://bankcampaignpredict.streamlit.app/) untuk melihat hasil pemodelan secara langsung. Berikut adalah hasilnya:
 
 # **1. Hasil pada kelas 0** 
 
